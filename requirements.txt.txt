@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+matplotlib
+numpy
+python-multipart
+fastapi
+uvicorn
+matplotlib
+pydantic
+numpy
